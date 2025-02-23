@@ -9,8 +9,7 @@ A collection of Bash scripts for automation, networking, and system administrati
 | Script Name  | Description | How to Use |
 |-------------|------------|------------|
 | [Ping Check](ping_check.sh) | Checks if an IP or domain is reachable using `ping`. | `./ping_check.sh` |
-| [Script 2](script2.sh) | Description of the second script. | `./script2.sh` |
-| [Script 3](script3.sh) | Description of the third script. | `./script3.sh` |
+| [Port Scanner](port_scanner.sh) | Scans if a specific port is open on a target. | `./port_scanner.sh` |
 
 ---
 
